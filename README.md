@@ -12,6 +12,7 @@ Description: the file contains automatic conversion of VESUM inflectional dictio
 Source: [VESUM Repo](https://github.com/brown-uk/dict_uk)
 
 Original data authors (VESUM): Andriy Rysin, Vasyl Starko
+
 Convertion to UniMorph: Witold Kieraś, Maria Shvedova
 
 ## References
