@@ -7,7 +7,7 @@ Contains paradigms for Ukrainian
 
 ## Data
 
-Description: the file contains automatic conversion of VESUM inflectional dictionary by Andriy Rysin and Vasyl Starko to the UniMorph scheme. Proper names as well as some archaic and non-standard forms from the original data were omitted.
+Description: the ukr.zip file contains automatic conversion of VESUM inflectional dictionary by Andriy Rysin and Vasyl Starko to the UniMorph scheme. Proper names as well as some archaic and non-standard forms from the original data were omitted.
 
 Source: [VESUM Repo](https://github.com/brown-uk/dict_uk)
 
