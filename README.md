@@ -27,7 +27,7 @@ If you use this data in your research, please cite the following original resour
 ```
 
 ## License:
-The Wiktionary data (ces file) is licensed under Creative Commons BY-SA license:
+The Wiktionary data (ukr file) is licensed under Creative Commons BY-SA license:
 https://creativecommons.org/licenses/by-sa/3.0/
 
 The VESUM data (ukr.zip file) is licensed under Creative Commons BY-NC-SA license:
