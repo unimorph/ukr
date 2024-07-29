@@ -1,13 +1,13 @@
 # ukr
 Contains paradigms for Ukrainian
 
-• ukr.zip (see below)
+• ukr.xz (see below)
 
 • ukr — Wiktionary
 
 ## Data
 
-Description: the ukr.zip file contains automatic conversion of VESUM inflectional dictionary by Andriy Rysin and Vasyl Starko to the UniMorph scheme. Proper names as well as some archaic and non-standard forms from the original data were omitted.
+Description: the ukr.xz file contains automatic conversion of VESUM inflectional dictionary by Andriy Rysin and Vasyl Starko to the UniMorph scheme. Proper names as well as some archaic and non-standard forms from the original data were omitted.
 
 Source: [VESUM Repo](https://github.com/brown-uk/dict_uk)
 
